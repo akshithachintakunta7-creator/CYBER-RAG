@@ -1,0 +1,15 @@
+__pycache__
+*.pyc
+myenv/
+venv/
+.git
+.gitignore
+README.md
+*.log
+*.sqlite
+*.db
+*.pkl
+*.npy
+!chunks/*.json
+!embeddings_export/*.npy
+!embeddings_export/*.json
